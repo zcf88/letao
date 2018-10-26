@@ -1,0 +1,6 @@
+.chart_left,
+.chart_right{
+  width: 45%;
+  height: 400px;
+  /* background: yellow; */
+}
